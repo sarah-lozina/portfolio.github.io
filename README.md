@@ -15,7 +15,7 @@ Previously, this normalization process was performed manually using Excel, which
 My teammates and I analyzed two years of bike share [data](https://vitalflux.com/linear-regression-datasets-csv-excel/?utm_source=chatgpt.com#google_vignette). We cleaned and preprocessed the dataset, then built a **second-order linear regression model** with **11 predictors** to forecast daily bike rental counts.
 
 # 🫆 Exploring Patterns in Manslaughter: The Influence of Location, Time, and Demographics
-*Final Project - Data Visualization*
+*[Final Project](https://public.tableau.com/shared/ZKTGJY5KQ?:display_count=n&:origin=viz_share_link) - Data Visualization*
 
 My teammates and I analyzed US crime records from 1980-2016 of murder, manslaughter, and manslaughter by negligence. The goal of our project was to examine how manslaughter/murder cases exhibit variations based on several key elements, such as location, year, and demographic information. Throughout our visualizations, we aim to present trends which may not be obvious and explore what might possibly be causing these patterns. After cleaning the data, we created four interactive visualizations using Tableau to display trends.
 
