@@ -7,7 +7,7 @@
 
 The **Bicinchoninic Acid (BCA) Assay** is a colorimetric technique used to quantify protein concentrations in cell lysates and purified protein samples. Normalizing these concentrations, based on the lowest detected value (ng/µL), is essential to ensure equal protein loading during western blotting to have accurate and reproducible results.
 
-Previously, this normalization process was performed manually using Excel, which was both time-consuming and confusing. To streamline the workflow, I developed a **[Python script](./BCACodeTemplate.ipynb)** that automates the entire process.
+Previously, this normalization process was performed manually using Excel, which was both time-consuming and confusing. To streamline the workflow, I developed a **[Python script](BCA_Code_Template.ipynb)** that automates the entire process.
 
 # 🚴‍♂️ Uncovering the Stats Behind the Spokes  
 *[Final Project](./UncoveringtheStatsBehindtheSpokes.pdf) – Statistical Data Analysis*
