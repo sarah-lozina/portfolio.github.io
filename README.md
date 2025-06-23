@@ -10,7 +10,7 @@ The **Bicinchoninic Acid (BCA) Assay** is a colorimetric technique used to quant
 Previously, this normalization process was performed manually using Excel, which was both time-consuming and confusing. To streamline the workflow, I developed a **Python script** that automates the entire process.
 
 # 🚴‍♂️ Uncovering the Stats Behind the Spokes  
-*Final Project – Statistical Data Analysis*
+*[Final Project](./UncoveringtheStatsBehindtheSpokes.pdf) – Statistical Data Analysis*
 
 My teammates and I analyzed two years of bike share [data](https://vitalflux.com/linear-regression-datasets-csv-excel/?utm_source=chatgpt.com#google_vignette). We cleaned and preprocessed the dataset, then built a **second-order linear regression model** with **11 predictors** to forecast daily bike rental counts.
 
