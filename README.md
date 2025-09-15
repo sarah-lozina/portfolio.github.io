@@ -8,7 +8,6 @@ This **[Python script](https://github.com/sarah-lozina/portfolio.github.io/blob/
 # 🤖 Final Coding from Applied Machine Learning Course
 This **[Python script](https://github.com/sarah-lozina/portfolio.github.io/blob/85c9e881489490f0e837181bc4fb429f0cc58d35/Final%20Coding%20Applied%20Machine%20Learning%202025.ipynb)** is an application of many of the machine learning algorithms I learned over the course of the semester. Using libraries such as NumPy, Pandas, PyTorch, scikit-learn, matplotlib, and NLTK, I implemented a variety of approaches including neural networks with PyTorch, a convolutional neural network, gradient boosting, and random forest models. The project demonstrates my ability to build, train, and evaluate different models while applying the broader machine learning workflow of data preprocessing, feature engineering, and performance assessment.
 
-
 # 🧪 BCA Code
 *Python script created in free time to simplify and expedite data analysis time while interning at the Cleveland Clinic Lerner Research Institute*
 
