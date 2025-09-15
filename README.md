@@ -2,6 +2,9 @@
 # Welcome to my portfolio!
 *See below for a description of all of my projects*
 
+# 🧠 Coding a Neural Network from Scratch
+This **[Python script](https://github.com/sarah-lozina/portfolio.github.io/blob/b6dcddc26fc808e439fe55aa5e0bc1c2457650cc/Coding%20a%20Neural%20Network%20from%20Scratch.ipynb)** is an extra-credit assignment for my Applied Machine Learning class, created to demonstrate my understanding of how neural networks perform classification tasks. 
+
 # 🧪 BCA Code
 *Python script created in free time to simplify and expedite data analysis time while interning at the Cleveland Clinic Lerner Research Institute*
 
